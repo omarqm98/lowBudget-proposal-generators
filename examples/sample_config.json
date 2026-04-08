@@ -1,0 +1,50 @@
+{
+  "proposalName": "Website Redesign for Acme Corp",
+  "companyName": "Acme Corp",
+  "client": {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "companyName": "Acme Corp",
+    "problem": "your outdated website is turning away potential customers and hurting your brand",
+    "problemDescription": "<ol><li><b>Outdated design hurts first impressions</b><br/>Your current website looks like it was built years ago. Visitors form an opinion about your business within 3 seconds of landing on your site — and right now, that first impression doesn't reflect the quality of your work.</li><li><b>Poor mobile experience</b><br/>Over 60% of your traffic comes from mobile devices, but the current site isn't optimized for smaller screens. This means potential customers are bouncing before they ever see what you offer.</li><li><b>No clear path to conversion</b><br/>The current site lacks clear calls-to-action. Visitors land on the homepage but don't know what to do next — there's no guided journey from interest to inquiry.</li></ol>",
+    "solution": "modern, conversion-optimized website built on a fast, maintainable platform",
+    "solutionDescription": "<ol><li><b>Clean, modern design that builds trust</b><br/>A professionally designed website that reflects your brand's quality and makes a strong first impression. Clean typography, intentional whitespace, and a cohesive color palette.</li><li><b>Fully responsive mobile-first layout</b><br/>Every page will be designed mobile-first, ensuring a seamless experience on phones, tablets, and desktops. No more pinching and zooming.</li><li><b>Strategic conversion funnel</b><br/>Clear calls-to-action on every page, an intuitive navigation structure, and a streamlined contact flow that makes it easy for visitors to become leads.</li></ol>"
+  },
+  "sender": {
+    "firstName": "Your First Name",
+    "lastName": "Your Last Name",
+    "companyName": "Your Company"
+  },
+  "project": {
+    "sowDescription": "<p>[Your Company] will design and build a modern, conversion-optimized website. The scope includes:</p><ul><li>One (1) complete website redesign with up to 8 pages</li><li>One (1) responsive design system (mobile, tablet, desktop)</li><li>One (1) contact form with email notifications</li><li>Basic SEO setup (meta tags, sitemap, page speed optimization)</li><li>Content migration from the existing site</li><li>Training session for the client's team on how to update content</li></ul>",
+    "investment": "Your Investment",
+    "externalPlatformCosts": "Monthly Platform Costs",
+    "totalDuration": "15 Business Days"
+  },
+  "timeline": [
+    {"phase": "1", "task": "Discovery & Planning — Kickoff call, gather brand assets, review current analytics, define sitemap and wireframes", "duration": "3", "startDay": "Day 1", "endDay": "Day 3"},
+    {"phase": "2", "task": "Design — Create design mockups for homepage and key pages, iterate based on your feedback", "duration": "4", "startDay": "Day 4", "endDay": "Day 7"},
+    {"phase": "3", "task": "Development — Build the site, implement responsive layouts, integrate contact form", "duration": "5", "startDay": "Day 8", "endDay": "Day 12"},
+    {"phase": "4", "task": "QA, Content & Launch — Migrate content, test across devices, SEO setup, training, and go-live", "duration": "3", "startDay": "Day 13", "endDay": "Day 15"}
+  ],
+  "lineItems": [
+    {"name": "Website Design (up to 8 pages)", "price": 2500, "qty": 1, "subtotal": 2500},
+    {"name": "Frontend Development", "price": 2000, "qty": 1, "subtotal": 2000},
+    {"name": "SEO Setup & Content Migration", "price": 500, "qty": 1, "subtotal": 500}
+  ],
+  "pricing": {
+    "total": 5000,
+    "depositPercent": 50,
+    "depositAmount": 2500,
+    "dueAtSigning": 2500
+  },
+  "externalCosts": [
+    {"service": "Website Hosting", "platform": "Vercel", "frequency": "Monthly", "subtotal": 20},
+    {"service": "Domain Name", "platform": "Namecheap", "frequency": "Yearly", "subtotal": 12}
+  ],
+  "stripe": {
+    "productName": "Website Redesign — Acme Corp",
+    "amountCents": 250000,
+    "currency": "usd"
+  }
+}
