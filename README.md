@@ -29,7 +29,7 @@ Before installing, make sure you have:
 ### Option 1: Automatic (recommended)
 
 ```bash
-git clone https://github.com/omarmayorca/lowBudget-proposal-generators.git
+git clone https://github.com/omarqm98/lowBudget-proposal-generators.git
 cd lowBudget-proposal-generators
 chmod +x install.sh
 ./install.sh
