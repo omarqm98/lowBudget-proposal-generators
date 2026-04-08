@@ -4,8 +4,9 @@ Generate professional client proposals using Claude Code — for free. No expens
 
 <div align="center">
   <a href="https://www.loom.com/share/4170dd3b6e704b6bba302e55b3282015">
-    <p>Watch the full video walkthrough</p>
-    <img style="max-width:600px;" src="https://cdn.loom.com/sessions/thumbnails/4170dd3b6e704b6bba302e55b3282015-with-play.gif" />
+    <img src="https://cdn.loom.com/sessions/thumbnails/4170dd3b6e704b6bba302e55b3282015-898097c0c43bc596.jpg" width="600" alt="Watch the video walkthrough" />
+    <br/>
+    <strong>Watch the full video walkthrough</strong>
   </a>
 </div>
 
