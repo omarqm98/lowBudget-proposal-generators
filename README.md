@@ -1,4 +1,4 @@
-# lowBudget Proposal Generators
+# Low Budget Proposal Generators (PandaDocs Alternative)
 
 Generate professional client proposals using Claude Code — for free. No expensive SaaS tools needed.
 
