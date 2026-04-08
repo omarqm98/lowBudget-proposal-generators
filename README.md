@@ -2,6 +2,8 @@
 
 Generate professional client proposals using Claude Code — for free. No expensive SaaS tools needed.
 
+[![Video Walkthrough](https://cdn.loom.com/sessions/thumbnails/4170dd3b6e704b6bba302e55b3282015-ec535ef6dac6f847-full-play.gif)](https://www.loom.com/share/4170dd3b6e704b6bba302e55b3282015)
+
 This repo contains two Claude Code skills that work together:
 
 1. **proposal-docs** — Generates a styled Word proposal (.docx) from a client brief, with optional Stripe payment link
@@ -74,7 +76,7 @@ A starter template is included at `proposal-docs/templates/proposal_template.doc
 3. Keep the `{{ tags }}` exactly as they are — these get replaced with your proposal content
 4. Save as `.docx` format
 
-For a video walkthrough of template setup, check the Loom link in the repo wiki.
+For a full video walkthrough, watch the [Loom walkthrough](https://www.loom.com/share/4170dd3b6e704b6bba302e55b3282015) at the top of this page.
 
 ## Optional: Stripe Payment Links
 
