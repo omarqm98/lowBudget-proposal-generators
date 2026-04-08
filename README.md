@@ -2,7 +2,12 @@
 
 Generate professional client proposals using Claude Code — for free. No expensive SaaS tools needed.
 
-[![Video Walkthrough](https://cdn.loom.com/sessions/thumbnails/4170dd3b6e704b6bba302e55b3282015-ec535ef6dac6f847-full-play.gif)](https://www.loom.com/share/4170dd3b6e704b6bba302e55b3282015)
+<div align="center">
+  <a href="https://www.loom.com/share/4170dd3b6e704b6bba302e55b3282015">
+    <p>Watch the full video walkthrough</p>
+    <img style="max-width:600px;" src="https://cdn.loom.com/sessions/thumbnails/4170dd3b6e704b6bba302e55b3282015-with-play.gif" />
+  </a>
+</div>
 
 This repo contains two Claude Code skills that work together:
 
